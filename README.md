@@ -27,7 +27,7 @@ Once you have cloned the directory on your home machine, enter the directory whe
 mvn compile
 ```
 
-Once that is completed, Autocompleter-0.1.0.jar should be able to be run with the command:
+Once that is completed, navigate to the directory and run Autocompleter-0.1.0.jar with the command:
 
 ```
 java -jar Autocompleter-0.1.0.jar
