@@ -1,4 +1,4 @@
-# Mobile Device Keyboard (with autocomplete)
+# Mobile Device Keyboard (With Autocomplete)
 
 This is a keyboard autocomplete algorithm to be used in various mobile devices. This algorithm will analyze the passages 
 typed by the user in order to suggest a set of candidate autocomplete words given a word fragment.
