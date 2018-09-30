@@ -24,7 +24,7 @@ mvn -v
 Once you have cloned the directory on your home machine, enter the directory where it was installed and use:
 
 ```
-mvn compile
+mvn install
 ```
 
 Once that is completed, navigate to the directory and run Autocompleter-0.1.0.jar with the command:
@@ -32,6 +32,8 @@ Once that is completed, navigate to the directory and run Autocompleter-0.1.0.ja
 ```
 java -jar Autocompleter-0.1.0.jar
 ```
+
+You may then follow the directions through the program to train and test the autocomplete algorithm. 
 
 ## Built With
 
