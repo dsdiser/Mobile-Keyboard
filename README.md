@@ -7,6 +7,17 @@ This project makes use of the java.util library's concurrentHashMap object in or
 Unlike regular hash maps, concurrent hash maps make it possible for the user to enter text to train the algorithm and simultaneously 
 retrieve results from the algorithm. Hash maps have the advantage of time efficient insertions and retrieval.
 
+The autocompleter will only suggest words that have a length greater than the fragment given. As an example, if the user inputs the string:
+
+```
+Peter Piper and I like pickling peppers. 
+```
+When asking for suggestions for the word fragment: 
+```
+like
+```
+the program will print an empty list, since it will not suggest the same word that is entered in the program. 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for testing purposes. 
