@@ -36,7 +36,7 @@ java -jar Autocompleter-0.1.0.jar
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency and Build Management
-* [JDK 1.8.0] (https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Java Development Kit 1.8.0_181
+* [JDK 1.8.0](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Java Development Kit 1.8.0_181
 
 ## Author
 
